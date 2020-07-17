@@ -1,0 +1,10 @@
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\bin\Debug\netcoreapp3.1\JeopardyApi.deps.json
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\bin\Debug\netcoreapp3.1\JeopardyApi.dll
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\obj\Debug\netcoreapp3.1\JeopardyApi.csprojAssemblyReference.cache
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\obj\Debug\netcoreapp3.1\JeopardyApi.AssemblyInfoInputs.cache
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\obj\Debug\netcoreapp3.1\JeopardyApi.AssemblyInfo.cs
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\bin\Debug\netcoreapp3.1\JeopardyApi.pdb
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\obj\Debug\netcoreapp3.1\RefitStubs.g.cs
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\obj\Debug\netcoreapp3.1\JeopardyApi.csproj.CoreCompileInputs.cache
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\obj\Debug\netcoreapp3.1\JeopardyApi.dll
+C:\Users\Weena\source\repos\Jeopardy\JeopardyApi\obj\Debug\netcoreapp3.1\JeopardyApi.pdb

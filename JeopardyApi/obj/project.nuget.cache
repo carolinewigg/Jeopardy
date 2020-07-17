@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecTLp8iUewsL0whOX0WH2hfAHBtmZR+1batLdD8hNp0urM3jNOAQxW2NxGr0Crr5g+7x5Y/mGpgvtsHMob6cAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Weena\\source\\repos\\Jeopardy\\JeopardyApi\\JeopardyApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Weena\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Weena\\.nuget\\packages\\refit\\5.1.67\\refit.5.1.67.nupkg.sha512",
+    "C:\\Users\\Weena\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
